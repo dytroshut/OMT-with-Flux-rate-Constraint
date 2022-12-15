@@ -3,7 +3,7 @@ Here is the code of our paper: Monge-Kantorovich Optimal Transport Through Const
 A copy of the paper can be found from:
 
 
-This project contains all the simulation in Section 3&4. The details of the code design is included in the manual.pdf
+This project contains all the simulation in Section 3&4 of the paper and details of the code design are included in the manual.pdf
 Please feel feel to reach out if you have any questions.
 
 
