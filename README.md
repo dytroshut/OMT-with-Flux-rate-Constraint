@@ -10,7 +10,7 @@ Please feel feel to reach out if you have any questions.
 The Matlab code requires the optimization toolbox: CVX can be downloaded from the above link.
 http://cvxr.com/cvx/
 
-The solver MOSEK is highly recommended, see
+The solver MOSEK is highly recommended for this task, see
 http://web.cvxr.com/cvx/doc/mosek.html 
 for more information.
 
