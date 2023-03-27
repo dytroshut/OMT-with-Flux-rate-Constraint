@@ -1,6 +1,6 @@
 # OMT-with-Flux-rate-Constraint
-Here is the code of our paper: Monge-Kantorovich Optimal Transport Through Constrictions and Flow-rate Constraints
-A copy of the paper can be found from:
+Here is the code of our paper: Monge-Kantorovich Optimal Transport Through Constrictions and Flow-rate Constraints.
+A copy of the paper can be found from: https://arxiv.org/abs/2212.14509
 
 
 This project contains all the simulation in Section 3&4 of the paper and details of the code design are included in the manual.pdf
